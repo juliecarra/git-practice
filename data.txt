@@ -1,0 +1,3 @@
+Name: Julie
+Age: 23
+Favorite Color: Navy Blue
